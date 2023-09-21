@@ -7,12 +7,12 @@ With the rapid and remarkable development of artificial intelligence technology 
 In this project, we explored various deep convolutional neural networks (CNNs) architectures, and conducted some experiments using two datasets, the first is vibration data of a grinding mill collected from a real industrial environment and the second is the [Case western reserve university (CWRU) vibration bearing dataset](https://engineering.case.edu/bearingdatacenter/download-data-file). The results of our experiments shows the effectiveness of using MFCC spectrograms and CNNs in fault detection and vibration analysis.
 
 ## CNN architecures :
-*AlexNet
-*VGG 16 & 19
-*ResNet 18, 34 & 50
-*Inception v1
-*DenseNet121
-*MobileNet v1, v2 & v3 (small and large)
+* AlexNet
+* VGG 16 & 19
+* ResNet 18, 34 & 50
+* Inception v1
+* DenseNet121
+* MobileNet v1, v2 & v3 (small and large)
 
 ## Vibration data characteristics :
 1. Real industrial data:
